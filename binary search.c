@@ -2,7 +2,8 @@
 #include <conio.h>
 int main()
 {
-    int a[10], low, high, mid, s, n, f printf("enter the no. of elements : \n");
+    int a[10], low, high, mid, s, n, f;
+    printf("enter the no. of elements : \n");
     scanf("%d", &n);
     printf("Enter the %d of elements :\n", n);
     for (i = 0; i < n; i++)
